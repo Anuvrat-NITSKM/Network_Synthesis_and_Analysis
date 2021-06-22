@@ -11,5 +11,5 @@ Resources for Network Analysis and Synthesis
   - [Network Analysis - Kreatryx GATE - EE, ECE, IN](https://www.youtube.com/playlist?list=PLs5_Rtf2P2r7hkaum0d0LwgWq7K6Ducxf)
  
 - Books
-  -  Network Analysis and Synthesis by Franklin F.Kuo
-  -  Network Analysis and Synthesis by SK Bhattacharya
+  -  Network Analysis and Synthesis by Franklin F. Kuo
+  -  Network Analysis and Synthesis by S. K. Bhattacharya
