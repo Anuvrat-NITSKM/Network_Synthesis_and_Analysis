@@ -4,7 +4,7 @@ Resources for Network Analysis and Synthesis
 - Notes
   - [Network Theory](https://www.tutorialspoint.com/network_theory/index.htm)
 
-- Corses on NPTEL
+- Courses on NPTEL
   - [Network Analysis by Prof. Tapas kumar Bhattacharya - IIT Kharagpur](https://nptel.ac.in/courses/106/102/106102064/)
 
 - Courses on YouTube
